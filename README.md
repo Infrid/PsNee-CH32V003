@@ -12,7 +12,7 @@ Why I haven't ported "postal" PsNee v8? Simply because JAP bios patching is bugg
 
 **Warning:**
 
-- On JAP region consoles you can ONLY play japanese backups due to BIOS protection!
+- On JAP region consoles you can ONLY play japanese backups due to BIOS protection! You can add my [Jap_Bios_unlocker](https://github.com/Crx91/Ps1_Jap_Bios_Unlocker) or use my [PsNee_Aio](https://github.com/Crx91/PsNee_Aio) directly!
 - Same story for the PAL Psone SCPH-102 wich can run only backup of PAL games, but here you can use my [OneNee_ch32v003](https://github.com/carmax91/OneNee_Ch32v003) port
   made specifically for this console to "unlock" all region reading...
 
